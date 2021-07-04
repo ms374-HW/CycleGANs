@@ -2,7 +2,7 @@
 Practicing CycleGANs for creating monet painting of existing images <br/>
 *In process
 <br/> Pix2Pix model - 57.74810*
-<br/> Generator Model - 70.80167
+<br/> Generator Model - 78.80167
 <br/> Keras Generator - 73.114
 *The lower score means it is more accurately monet
 
