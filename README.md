@@ -1,6 +1,6 @@
 # CycleGANs
 Practicing CycleGANs for creating monet painting of existing images <br/>
-*In process
+**In process**
 <br/> Pix2Pix model - 57.7481*
 <br/> Dense layer Models - 78.80167
 <br/> Conv2D layer Models - 72.66255
